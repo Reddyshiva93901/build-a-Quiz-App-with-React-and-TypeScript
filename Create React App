@@ -1,0 +1,2 @@
+npx create-react-app quiz-app --template typescript
+cd quiz-app
